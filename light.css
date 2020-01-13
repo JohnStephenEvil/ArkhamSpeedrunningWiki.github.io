@@ -49,3 +49,16 @@ body.light .selected-button{
 	background-color: #3b3bf7;
 	color: white;
 }
+
+body.light .table{
+	color: #1D1D1D;
+}
+
+body.light .table-row{
+	background: white;
+}
+
+body.light .table-hover-cells > tbody > tr > th:hover,
+.table-hover-cells > tbody > tr > td:hover {
+	background-color: #e0e0e0;
+}
