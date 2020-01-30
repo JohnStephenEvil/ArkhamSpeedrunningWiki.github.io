@@ -36,7 +36,7 @@ Gliding is *significantly* easier while using keyboard and mouse, and offers gre
 
 # Ra's Cutscene Skip
 
-The cutscene skip we do at the end of the Ra's boss fight can only be done consistently on keyboard and mouse. There is [a way to do this on controller](https://clips.twitch.tv/HeadstrongJollyBaconBrainSlug) but it's unclear how exactly it works or why it behaves differently.
+The cutscene skip we do at the end of the Ra's boss fight is significantly easier on keyboard and mouse. It [can be done on controller](https://clips.twitch.tv/HeadstrongJollyBaconBrainSlug) however the timing window is incredibly small, making this very difficult.
 
 # Wonder Tower
 Freeze grenade climbing is significantly easier on keyboard, since it involves mashing the '5' key instead of Right Trigger.
@@ -49,9 +49,10 @@ Freeze grenade climbing is significantly easier on keyboard, since it involves m
 - Very poor and somewhat inconsistent load times (especially on PS4)
 - Does not run at a consistent framerate (specifically in the overworld)
 - More textures remain visible when you are out of bounds, so navigating out of bounds is easier
+- On PS4, Alternate Fire Cancels with the Batarang and Batclaw (but *not* the REC) do not work
 
 # WiiU
 
 * Origins-like Shock Gloves make combat faster
 * Menu-ing with the WiiU gamepad is theoretically faster
-* Does not run at a consistent framerate (if it did it could potentially be the fastest console version)
+* Does not run at a consistent framerate
