@@ -1,13 +1,18 @@
 # Any% Tutorial (July 2019)
 - By [JohnStephenEvil](https://www.speedrun.com/user/JohnStephenEvil)
-- Updated December 19th, 2019
+- Updated February 15th, 2020
 
 https://youtu.be/nFoZ1hHl7ss
 
 For zips to work correctly on PC, you need to run the game at 62fps, which is the default framerate without v-sync. If it's running at 60fps, you need to disable v-sync. Disable it in the game's launcher, and make sure it's not forced on by any third-party programs like Nvidia Control Panel.
 You also want PhysX off, and DirectX 11 Features and Tessellation off. PhysX generally creates lag, and I have no idea what DX11 does in the game, or how it affects the speedrun, but apparently it's best to have it off.
 
-3:05 - Intro Fight skip/Dumpster Dive
+**The following discoveries have been made since this video was uploaded:**
+[Slightly faster Bruce Wayne jump](https://youtu.be/Tve-Uwp-pWY)
+[Assembly skip - fastest version](https://youtu.be/a96wVY4IXOI?t=922) *(currently no guide)*
+[Ground Takedown Cancels](https://youtu.be/yDT1RbGRUUM)
+
+3:05 - Intro Fight skip/Dumpster Dive - More details here: https://youtu.be/Q8e9YVOHMGQ
 4:50 - Courthouse
 6:34 - Church
 11:16 - Steel Mill
