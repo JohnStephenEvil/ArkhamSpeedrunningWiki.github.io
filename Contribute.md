@@ -17,4 +17,4 @@ When you're done, scroll down to the bottom where it says "Propose file change".
 If you would like a new page to be created, add a new Issue for it or contact [ShikenNuggets](https://www.speedrun.com/user/ShikenNuggets).
 
 # Development
-If you're familiar with web development or design and would like to help develop the wiki itself, contact [ShikenNuggets](https://www.speedrun.com/user/ShikenNuggets) and we'll get you added as a collaborator. Beyond that, you probably know you're way around GitHub well enough to figure out the rest ;)
+If you're familiar with web development or design and would like to help develop the wiki itself, contact [ShikenNuggets](https://www.speedrun.com/user/ShikenNuggets) and we'll get you added as a collaborator. Beyond that, you probably know your way around GitHub well enough to figure out the rest ;)
