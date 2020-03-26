@@ -1,3 +1,3 @@
 # Arkham Knight - Knightfall (Full Ending)
 
-There doesn't seem to be any content here. If only somebody filled it in...
+[Arkham Knight 100% Guide](https://docs.google.com/document/d/1lxg1_yaQXDCwzrCwLQaZ2gYFpQdr07elkaEZGGE--z8/edit?usp=sharing)
