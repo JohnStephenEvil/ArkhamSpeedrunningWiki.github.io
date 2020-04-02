@@ -39,6 +39,7 @@
 	$pageDir["city"]["routes"]["100cat"] = "City/Routes/100Cat.md";
 	$pageDir["city"]["routes"]["ng-"] = "City/Routes/NGMinus.md";
 	$pageDir["city"]["routes"]["badending"] = "City/Routes/BadEnding.md";
+	$pageDir["city"]["guides"]["412h5"] = "Guides/City/412h5.md";
 	$pageDir["city"]["guides"]["00j1t"] = "Guides/City/00j1t.md";
 	$pageDir["city"]["guides"]["2obkh"] = "Guides/City/2obkh.md";
 	$pageDir["city"]["guides"]["v42lq"] = "Guides/City/v42lq.md";
@@ -73,7 +74,8 @@
 	$pageDir["knight"]["routes"]["knightfall-full"] = "Knight/Routes/KnightfallFull.md";
 	$pageDir["knight"]["routes"]["soi"] = "Knight/Routes/SOI.md";
 	$pageDir["knight"]["routes"]["episodes"] = "Knight/Routes/Episodes.md";
-	$pageDir["knight"]["guides"]["lx5co"] = "Guides/Knight/lx5co.md";
 	$pageDir["knight"]["guides"]["xynds"] = "Guides/Knight/xynds.md";
 	$pageDir["knight"]["guides"]["fii8j"] = "Guides/Knight/fii8j.md";
+	$pageDir["knight"]["guides"]["vxwkh"] = "Guides/Knight/vxwkh.md";
+	$pageDir["knight"]["guides"]["lx5co"] = "Guides/Knight/lx5co.md";
 ?>
