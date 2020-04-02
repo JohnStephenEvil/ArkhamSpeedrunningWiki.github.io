@@ -1,4 +1,4 @@
-# 100% Speedrun routing
+# [ARCHIVED] 100% Speedrun routing
 - By [DoubleEMP](https://www.speedrun.com/user/DoubleEMP)
 - Updated September 9th, 2017
 

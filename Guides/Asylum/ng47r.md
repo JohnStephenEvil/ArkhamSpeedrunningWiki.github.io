@@ -1,6 +1,6 @@
-# Mousewheel binds for ripping grates and skipping dialogue
+Mousewheel binds for ripping grates, trophy duping, skipping dialogue
 - By [cojosao](https://www.speedrun.com/user/cojosao)
-- Updated November 3rd, 2019
+- Updated March 31st, 2020
 
 Here is how you set up mousewheel bindings for this game. Alternatively, if you are fine with using the game's default binds, we have a pre-made file in the [Resources section](https://www.speedrun.com/arkhamasylum/resources).
 
