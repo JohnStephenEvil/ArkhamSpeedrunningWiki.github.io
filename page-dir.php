@@ -41,6 +41,7 @@
 	$pageDir["city"]["routes"]["badending"] = "City/Routes/BadEnding.md";
 	$pageDir["city"]["guides"]["412h5"] = "Guides/City/412h5.md";
 	$pageDir["city"]["guides"]["00j1t"] = "Guides/City/00j1t.md";
+	$pageDir["city"]["guides"]["1y4f3"] = "Guides/City/1y4f3.md";
 	$pageDir["city"]["guides"]["2obkh"] = "Guides/City/2obkh.md";
 	$pageDir["city"]["guides"]["v42lq"] = "Guides/City/v42lq.md";
 	$pageDir["city"]["guides"]["apyas"] = "Guides/City/apyas.md";
