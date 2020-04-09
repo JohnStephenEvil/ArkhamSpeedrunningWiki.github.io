@@ -16,8 +16,11 @@ function ProcessLinks(text){
 		if(url.includes("http") && !url.includes("https")){
 			url.replace("http", "https");
 		}
-
-		if(IsYouTubeLink(url)){
+		
+		var n = text.search(url);
+		if(n > 0 && text.charAt(n - 1) == '(' && text.charAt(n + url.length) == ')'){
+			return; //Should not embed video, do nothing else
+		}else if(IsYouTubeLink(url)){
 			var newUrl = url;
 			
 			if(url.includes("&")){
@@ -52,7 +55,7 @@ function LoadPageMarkdown(){
 	LoadFileMarkdown(fileName);
 }
 
-function LoadFileMarkdown(fileName, embedLinks = true){
+function LoadFileMarkdown(fileName, embedVideoLinks = true){
 	if(fileName === null){
 		return;
 	}
@@ -63,8 +66,8 @@ function LoadFileMarkdown(fileName, embedLinks = true){
 	
 	//Loading from the server like this is not a fantastic solution, TODO
 	jQuery.get("http://arkhamspeedruns.appspot.com/" + fileName, function(data){
-		if(embedLinks){
-			data = ProcessLinks(data); //Temporary workaround for certain pages, TODO - find a way to denote that links should not embed
+		if(embedVideoLinks){
+			data = ProcessLinks(data);
 		}
 		
 		data = converter.makeHtml(data);
