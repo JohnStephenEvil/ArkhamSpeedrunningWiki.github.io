@@ -61,6 +61,7 @@ function LoadFileMarkdown(fileName, embedVideoLinks = true){
 	}
 	
 	var target = document.getElementById("targetDiv");
+	showdown.setOption('underline', 'true');
 	var converter = new showdown.Converter();
 	converter.setFlavor("github");
 	
