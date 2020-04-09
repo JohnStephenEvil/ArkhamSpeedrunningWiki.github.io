@@ -1,4 +1,6 @@
 # [ARCHIVED] 100% Speedrun routing
+**Important Note:** This guide is outdated and is kept here for archival purposes. Please check the [Guides Page](/guides) for a more up-to-date guide.
+
 - By [DoubleEMP](https://www.speedrun.com/user/DoubleEMP)
 - Updated September 9th, 2017
 
