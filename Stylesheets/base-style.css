@@ -9,6 +9,7 @@ body{
 
 #targetDiv{
 	width: 100%;
+	overflow-wrap: break-word;
 }
 
 .panel{
