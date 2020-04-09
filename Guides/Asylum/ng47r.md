@@ -1,4 +1,4 @@
-Mousewheel binds for ripping grates, trophy duping, skipping dialogue
+# Mousewheel binds for ripping grates, trophy duping, skipping dialogue
 - By [cojosao](https://www.speedrun.com/user/cojosao)
 - Updated March 31st, 2020
 
