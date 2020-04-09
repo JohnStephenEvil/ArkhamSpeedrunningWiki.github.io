@@ -1,4 +1,4 @@
-# How to Contribute to  the Wiki
+# How to Contribute to the Wiki
 There are three major things you can do to contribute:
 * Make note of any issues you see
 * Add/update content
