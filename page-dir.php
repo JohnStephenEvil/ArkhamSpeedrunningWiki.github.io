@@ -2,6 +2,7 @@
 	//TODO - This massive array should be in a database, not in code
 	$pageDir[""] = "index-content.html";
 	$pageDir["guides"] = "guides.html";
+	$pageDir["resources"] = "Resources.md";
 	$pageDir["contribute"] = "Contribute.md";
 	
 	$pageDir["asylum"][""] = "Asylum/asylum-content.html";
