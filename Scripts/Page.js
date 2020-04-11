@@ -66,7 +66,7 @@ function LoadFileMarkdown(fileName, embedVideoLinks = true){
 	converter.setFlavor("github");
 	
 	//Loading from the server like this is not a fantastic solution, TODO
-	jQuery.get("http://arkhamspeedruns.appspot.com/" + fileName, function(data){
+	jQuery.get("https://arkhamspeedruns.appspot.com/" + fileName, function(data){
 		if(embedVideoLinks){
 			data = ProcessLinks(data);
 		}
