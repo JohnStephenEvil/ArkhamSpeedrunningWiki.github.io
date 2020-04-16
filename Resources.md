@@ -21,6 +21,9 @@ City, Origins, and Knight have autosplitters available for the PC versions. All 
 __**Custom Input File with Mousewheel Binds**__
 Mouse Wheel Down skips dialog, Mouse Wheel Up opens grates and picks up trophies. [This guide](/asylum/guides/ng47r) explains how to use the file, and how to create it yourself. [Download here (direct download)](https://www.speedrun.com/tools/CustomInputFile_12c92.zip).
 
+__**100% Route Tracker (WIP)**__
+Checks the game's save files to keep track of and display your progress. Currently a work in progress. [Download here](https://www.dropbox.com/sh/z92iskugeb4nx4u/AAAjzpgSb6DcY3Gglr2-prm7a?dl=0).
+
 __**(Save File) New Game Minus**__
 Modified save file for the New Game Minus category. Has all gadgets and upgrades unlocked from the start (except armor upgrades, which is optimal for the run). Opening the upgrades menu gives you everything. [Download here (direct download)](https://www.speedrun.com/saves/NewGameMinus_5m1f5.zip).
 
