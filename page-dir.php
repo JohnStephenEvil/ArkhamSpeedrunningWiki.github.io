@@ -63,6 +63,7 @@
 	$pageDir["origins"]["routes"]["100"] = "Origins/Routes/100.md";
 	$pageDir["origins"]["routes"]["cch"] = "Origins/Routes/CCH.md";
 	$pageDir["origins"]["guides"]["cwjt9"] = "Guides/Origins/cwjt9.md";
+	$pageDir["origins"]["guides"]["40u4c"] = "Guides/Origins/40u4c.md";
 	
 	$pageDir["knight"][""] = "Knight/knight-content.html";
 	$pageDir["knight"]["glitches"] = "Knight/Glitches.md";
