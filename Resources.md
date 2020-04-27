@@ -14,6 +14,9 @@ A program to help manage savefiles. It lets you create backup saves and replace 
 __**Savefile Converter**__
 A program that converts Steam save files into Epic Games save files for the Batman: Arkham Games. You can download the latest version from [the GitHub page here](https://github.com/Green-Bat/Savefile-Converter/releases).
 
+__**100% Route Tracker (WIP)**__
+Checks the game's save files to keep track of and display your progress. Works for all four main-series Arkham games. Routes are not set or optimized for certain categories (specifically Catwoman for City, and NG+ for City and Origins). Very much a work-in-progress. [Download here](https://github.com/ShikenNuggets/ArkhamRouteTracker/releases).
+
 __**Autosplitters**__
 City, Origins, and Knight have autosplitters available for the PC versions. All Arkham autosplitters are uploaded into [this GitHub repository](https://github.com/ShikenNuggets/Autosplitters), and are also accessible through LiveSplit itself.
 
