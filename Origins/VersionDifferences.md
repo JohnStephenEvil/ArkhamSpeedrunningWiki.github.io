@@ -14,7 +14,7 @@ On PC, you can bind Quickfire Multibatarangs (Gadget 4) to a keyboard input. Thi
 
 # Mousewheel
 
-On the PC version, the mousewheel can be bound to **_quickfire_** gadgets. This is done through the 'Controls' settings from within the game itself without any .ini file edits.
+On the PC version, the mousewheel can be bound to ***quickfire*** gadgets. This is done through the 'Controls' settings from within the game itself without any .ini file edits.
 
 This a list of gadgets that can be quickfired using the mousewheel:
 - Batarang (Gadget 1)
@@ -25,7 +25,7 @@ This a list of gadgets that can be quickfired using the mousewheel:
 - Smoke Bomb (Gadget 6)
 - Concussion Detonator (Gadget 11)
 
-The mousewheel can also be bound to **_select_** a specific gadget.
+The mousewheel can also be bound to ***select*** a specific gadget.
 
 # Animation Cancels
 
@@ -37,4 +37,4 @@ These include:
 
 # Bane Hideout Glide
 
-Bane hideout glide is _extremely_ difficult to do on controller, if not outright impossible. Even if possible, it would not be of any benefit on console, as doing it will require at least one Butterfly Glide to be able to finish the run.
+Bane hideout glide is more difficult to do on controller, and starting the glide from a [different location](https://youtu.be/EohKzumjvzI) is highly recommended.
