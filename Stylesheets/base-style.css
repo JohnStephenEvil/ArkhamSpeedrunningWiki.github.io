@@ -55,3 +55,8 @@ button:active{
 	border-radius: 0.5rem;
 	box-shadow: 0 2px #999;
 }
+
+.controllerButton{
+	height: 1.5rem;
+	width: 1.5rem;
+}

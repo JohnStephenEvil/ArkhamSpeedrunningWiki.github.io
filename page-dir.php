@@ -30,6 +30,7 @@
 	$pageDir["city"]["gameplay"] = "City/Gameplay.md";
 	$pageDir["city"]["versiondifferences"] = "City/VersionDifferences.md";
 	$pageDir["city"]["extras"] = "City/Extras.md";
+	$pageDir["city"]["attributes"] = "City/Attributes.md";
 	$pageDir["city"]["routes"]["any"] = "City/Routes/Any.md";
 	$pageDir["city"]["routes"]["ng+"] = "City/Routes/NGPlus.md";
 	$pageDir["city"]["routes"]["anycat"] = "City/Routes/AnyCat.md";
