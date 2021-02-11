@@ -1,0 +1,47 @@
+{
+	"head":"generated/head.html",
+	"titleBar":"generated/title-bar.html",
+	"sideBar":"generated/sidebar.html",
+	"footer":"generated/footer.html",
+	"pageTemplates":{
+		"Index":"generated/index-content.html",
+		"Content":"generated/content.html",
+		"AsylumGrid":"generated/asylum-content.html",
+		"CityGrid":"generated/city-content.html",
+		"OriginsGrid":"generated/origins-content.html",
+		"KnightGrid":"generated/knight-content.html",
+		"GuidesGrid":"generated/guides-content.html"
+	},
+	"pages":[{
+			"location":"index.html",
+			"title":"Arkham Speedrunning Wiki - Home",
+			"type":0,
+			"mdContent":null
+		},{
+			"location":"asylum.html",
+			"title":"Asylum - Arkham Speedrunning Wiki",
+			"type":3,
+			"mdContent":null
+		},{
+			"location":"city.html",
+			"title":"City - Arkham Speedrunning Wiki",
+			"type":4,
+			"mdContent":null
+		},{
+			"location":"origins.html",
+			"title":"Origins - Arkham Speedrunning Wiki",
+			"type":5,
+			"mdContent":null
+		},{
+			"location":"knight.html",
+			"title":"Knight - Arkham Speedrunning Wiki",
+			"type":6,
+			"mdContent":null
+		},{
+			"location":"guides.html",
+			"title":"Guides - Arkham Speedrunning Wiki",
+			"type":7,
+			"mdContent":null
+		}
+	]
+}
