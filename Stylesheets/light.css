@@ -1,6 +1,6 @@
 body.light{
 	color: rgba(20,20,20,0.92);
-    background: #c7c7c7 url(/images/background-light.png);
+    background: #c7c7c7 url(../Images/background-light.png);
 	background-attachment: fixed;
     background-position: center;
     background-size: cover;
