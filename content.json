@@ -42,6 +42,11 @@
 			"title":"Guides - Arkham Speedrunning Wiki",
 			"type":7,
 			"mdContent":null
+		},{
+			"location":"resources.html",
+			"title":"Resources - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"Resources.md"
 		}
 	]
 }
