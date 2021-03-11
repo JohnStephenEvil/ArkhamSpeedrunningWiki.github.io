@@ -47,7 +47,7 @@ This works with all of the following gadgets (note that the timing is a bit diff
 • RC Batarang  
 
 # Storage (Overview)
-Any time you **aim** or **quickfire** a Batarang (regular Batarang, Remote Control Batarang, or Sonic Batarang), the state you are in is "stored" on that gadget (for example, if you aim the Sonic Batarang on a corner, you now have "corner storage" on the Sonic Batarang). This is a very important concept that a lot of the major glitches in this game depend on. With an animation cancel (explained below), you can "activate" this storage, and this storage state is what enables a lot of the major glitches described below.
+Any time you **aim** or **quickfire** a Batarang (regular Batarang or Remote Control Batarang), the state you are in is "stored" on that gadget (for example, if you aim the batarang on a corner, you now have "corner storage" on the batarang). This is a very important concept that a lot of the major glitches in this game depend on. With an animation cancel (explained below), you can "activate" this storage, and this storage state is what enables a lot of the major glitches described below.
 
 # REC Storage
 Getting and activating storage for the REC works a little differently than other gadgets, but this is the basic step for activating storage on other gadgets so we have to start here.
