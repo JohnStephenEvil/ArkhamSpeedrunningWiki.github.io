@@ -114,6 +114,28 @@
 			"title":"Asylum Useless Glitches - Arkham Speedrunning Wiki",
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/misc/UselessGlitches.md"
 		},
+		//Asylum Guides
+		{
+			"location":"asylum/guides/0fvue.html",
+			"title":"Asylum Video Commentary/Tutorials - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/guides/0fvue.md"
+		},{
+			"location":"asylum/guides/7qhmv.html",
+			"title":"Asylum Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/guides/7qhmv.md"
+		},{
+			"location":"asylum/guides/7zvxl.html",
+			"title":"Asylum FPS Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/guides/7zvxl.md"
+		},{
+			"location":"asylum/guides/ng47r.html",
+			"title":"Asylum Mousewheel Binds Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/guides/ng47r.md"
+		},{
+			"location":"asylum/guides/ydoey.html",
+			"title":"Asylum Any% Easy Guide (French) - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/guides/ydoey.md"
+		},
 		
 		//------------------------
 		//City Routes
@@ -187,8 +209,50 @@
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/misc/UselessGlitches.md"
 		},{
 			"location":"city/misc/attributes.html",
-			"title":"City Glitches - Arkham Speedrunning Wiki",
+			"title":"City Attributes - Arkham Speedrunning Wiki",
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/misc/Attributes.md"
+		},
+		//City Guides
+		{
+			"location":"city/guides/1y4f3.html",
+			"title":"City Video Meme Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/guides/1y4f3.md"
+		},{
+			"location":"city/guides/2obkh.html",
+			"title":"City Any% Tutorial - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/guides/2obkh.md"
+		},{
+			"location":"city/guides/60bbp.html",
+			"title":"City NG- Preparation Tutorial - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/guides/60bbp.md"
+		},{
+			"location":"city/guides/412h5.html",
+			"title":"City 100% Tutorial - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/guides/412h5.md"
+		},{
+			"location":"city/guides/a2fbg.html",
+			"title":"City NG+ Tutorial - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/guides/a2fbg.md"
+		},{
+			"location":"city/guides/apyas.html",
+			"title":"City Language Difference Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/guides/apyas.md"
+		},{
+			"location":"city/guides/l3fyb.html",
+			"title":"City Autosplitter Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/guides/l3fyb.md"
+		},{
+			"location":"city/guides/qgava.html",
+			"title":"City NG+ Keyboard Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/guides/qgava.md"
+		},{
+			"location":"city/guides/v42lq.html",
+			"title":"City Removing Catwoman Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/guides/v42lq.md"
+		},{
+			"location":"city/guides/xiqk2.html",
+			"title":"City Mousewheel Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/guides/xiqk2.md"
 		},
 		
 		//------------------------
@@ -237,6 +301,20 @@
 			"location":"origins/misc/useless-glitches.html",
 			"title":"Origins Useless Glitches - Arkham Speedrunning Wiki",
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/misc/UselessGlitches.md"
+		},
+		//Origins Guides
+		{
+			"location":"origins/guides/40u4c.html",
+			"title":"Origins Any% Tutorial - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/guides/40u4c.md"
+		},{
+			"location":"origins/guides/cwjt9.html",
+			"title":"Origins Changing FPS Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/guides/cwjt9.md"
+		},{
+			"location":"origins/guides/f4rlp.html",
+			"title":"Origins 100% Tutorials - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/guides/f4rlp.md"
 		},
 		
 		//------------------------
@@ -293,6 +371,36 @@
 			"location":"knight/misc/useless-glitches.html",
 			"title":"Knight Useless Glitches - Arkham Speedrunning Wiki",
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/misc/UselessGlitches.md"
+		},
+		//Knight Guides
+		{
+			"location":"knight/guides/8wbb7.html",
+			"title":"Knight Glitchless Tutorial - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/guides/8wbb7.md"
+		},{
+			"location":"knight/guides/fii8j.html",
+			"title":"Knight Any% Tutorial - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/guides/fii8j.md"
+		},{
+			"location":"knight/guides/lx5co.html",
+			"title":"Knight Any% Tutorial - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/guides/lx5co.md"
+		},{
+			"location":"knight/guides/lx5co.html",
+			"title":"[ARCHIVED] Knight 100% Routing Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/guides/lx5co.md"
+		},{
+			"location":"knight/guides/ukztl.html",
+			"title":"[Knight Any% Glitch Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/guides/ukztl.md"
+		},{
+			"location":"knight/guides/vxwkh.html",
+			"title":"Knight 100% Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/guides/vxwkh.md"
+		},{
+			"location":"knight/guides/xynds.html",
+			"title":"Knight ACE Skip Guide - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/guides/xynds.md"
 		},
 	]
 }
