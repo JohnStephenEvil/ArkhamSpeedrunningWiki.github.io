@@ -46,7 +46,7 @@
 			"location":"resources.html",
 			"title":"Resources - Arkham Speedrunning Wiki",
 			"type":2,
-			"mdContent":"Resources.md"
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/Resources.md"
 		}
 	]
 }
