@@ -4,8 +4,8 @@
 	"sideBar":"generated/sidebar.html",
 	"footer":"generated/footer.html",
 	"pageTemplates":{
-		"Index":"generated/index-content.html",
 		"Content":"generated/content.html",
+		"Index":"generated/index-content.html",
 		"AsylumGrid":"generated/asylum-content.html",
 		"CityGrid":"generated/city-content.html",
 		"OriginsGrid":"generated/origins-content.html",
@@ -15,42 +15,40 @@
 	"pages":[{
 			"location":"index.html",
 			"title":"Arkham Speedrunning Wiki - Home",
-			"type":0,
+			"type":1,
 			"mdContent":null
 		},{
 			"location":"asylum.html",
 			"title":"Asylum - Arkham Speedrunning Wiki",
-			"type":3,
+			"type":2,
 			"mdContent":null
 		},{
 			"location":"city.html",
 			"title":"City - Arkham Speedrunning Wiki",
-			"type":4,
+			"type":3,
 			"mdContent":null
 		},{
 			"location":"origins.html",
 			"title":"Origins - Arkham Speedrunning Wiki",
-			"type":5,
+			"type":4,
 			"mdContent":null
 		},{
 			"location":"knight.html",
 			"title":"Knight - Arkham Speedrunning Wiki",
-			"type":6,
+			"type":5,
 			"mdContent":null
 		},{
 			"location":"guides.html",
 			"title":"Guides - Arkham Speedrunning Wiki",
-			"type":7,
+			"type":6,
 			"mdContent":null
 		},{
 			"location":"resources.html",
 			"title":"Resources - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/Resources.md"
 		},{
 			"location":"contribute.html",
 			"title":"Contribute - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/Contribute.md"
 		},
 		
@@ -58,71 +56,58 @@
 		{
 			"location":"asylum/routes/any.html",
 			"title":"Asylum Any% - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/Any.md"
 		},{
 			"location":"asylum/routes/nms.html",
 			"title":"Asylum No Major Skips - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/NMS.md"
 		},{
 			"location":"asylum/routes/100.html",
 			"title":"Asylum 100% - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/100.md"
 		},{
 			"location":"asylum/routes/100-nms.html",
 			"title":"Asylum 100% Glitchless - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/100NMS.md"
 		},{
 			"location":"asylum/routes/low.html",
 			"title":"Asylum Low% - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/Low.md"
 		},{
 			"location":"asylum/routes/beat-joker.html",
 			"title":"Asylum Beat Joker - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/BeatJoker.md"
 		},{
 			"location":"asylum/routes/ngminus.html",
 			"title":"Asylum New Game Minus - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/NGMinus.md"
 		},
 		//Asylum General
 		{
 			"location":"asylum/glitches.html",
 			"title":"Asylum Glitches - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/Glitches.md"
 		},{
 			"location":"asylum/skips.html",
 			"title":"Asylum Skips - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/Skips.md"
 		},{
 			"location":"asylum/gameplay.html",
 			"title":"Asylum Gameplay - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/Gameplay.md"
 		},{
 			"location":"asylum/version-differences.html",
 			"title":"Asylum Version Differences - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/VersionDifferences.md"
 		},
 		//Asylum Misc
 		{
 			"location":"asylum/misc/ngminus-file-setup.html",
 			"title":"Asylum NG- File Setup - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/misc/NGMinusSetup.md"
 		},{
 			"location":"asylum/misc/useless-glitches.html",
 			"title":"Asylum Useless Glitches - Arkham Speedrunning Wiki",
-			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/misc/UselessGlitches.md"
 		},
 		
@@ -131,13 +116,75 @@
 		{
 			"location":"city/routes/any.html",
 			"title":"City Any% - Arkham Speedrunning Wiki",
-			"type":2,
-			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/misc/Any.md"
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/routes/Any.md"
 		},{
-			"location":"city/routes/any.html",
-			"title":"City Any% - Arkham Speedrunning Wiki",
-			"type":2,
-			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/misc/Any.md"
+			"location":"city/routes/ng+.html",
+			"title":"City NG+ - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/routes/NGPlus.md"
+		},{
+			"location":"city/routes/any-cat.html",
+			"title":"City Any% w/Cat - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/routes/AnyCat.md"
+		},{
+			"location":"city/routes/glitchless.html",
+			"title":"City Glitchless - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/routes/Glitchless.md"
+		},{
+			"location":"city/routes/glitchless-cat.html",
+			"title":"City Glitchless w/Cat - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/routes/GlitchlessCat.md"
+		},{
+			"location":"city/routes/hqr.html",
+			"title":"City HQR - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/routes/HQR.md"
+		},{
+			"location":"city/routes/100.html",
+			"title":"City 100% - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/routes/100.md"
+		},{
+			"location":"city/routes/100-cat.html",
+			"title":"City 100% w/Cat - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/routes/100Cat.md"
+		},{
+			"location":"city/routes/ngminus.html",
+			"title":"City New Game Minus - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/routes/NGMinus.md"
+		},{
+			"location":"city/routes/bad-ending.html",
+			"title":"City Bad Ending - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/routes/BadEnding.md"
+		},
+		//City General
+		{
+			"location":"city/glitches.html",
+			"title":"City Glitches - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/Glitches.md"
+		},{
+			"location":"city/skips.html",
+			"title":"City Skips - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/Skips.md"
+		},{
+			"location":"city/gameplay.html",
+			"title":"City Gameplay - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/Gameplay.md"
+		},{
+			"location":"city/version-differences.html",
+			"title":"City Version Differences - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/VersionDifferences.md"
+		},{
+			"location":"city/language-differences.html",
+			"title":"City Language Differences - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/LanguageDifferences.md"
+		},
+		//City Misc
+		{
+			"location":"city/misc/useless-glitches.html",
+			"title":"City Useless Glitches - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/misc/UselessGlitches.md"
+		},{
+			"location":"city/misc/attributes.html",
+			"title":"City Glitches - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/misc/Attributes.md"
 		},
 	]
 }
