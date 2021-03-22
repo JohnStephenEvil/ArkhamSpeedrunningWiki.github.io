@@ -99,6 +99,10 @@
 			"location":"asylum/version-differences.html",
 			"title":"Asylum Version Differences - Arkham Speedrunning Wiki",
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/VersionDifferences.md"
+		},{
+			"location":"asylum/language-differences.html",
+			"title":"Asylum Language Differences - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/LanguageDifferences.md"
 		},
 		//Asylum Misc
 		{
@@ -185,6 +189,54 @@
 			"location":"city/misc/attributes.html",
 			"title":"City Glitches - Arkham Speedrunning Wiki",
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/city/misc/Attributes.md"
+		},
+		
+		//------------------------
+		//Origins Routes
+		{
+			"location":"origins/routes/any.html",
+			"title":"Origins Any% - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/routes/Any.md"
+		},{
+			"location":"origins/routes/glitchless.html",
+			"title":"Origins Glitchless - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/routes/Glitches.md"
+		},{
+			"location":"origins/routes/100.html",
+			"title":"Origins 100% - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/routes/100.md"
+		},{
+			"location":"origins/routes/cch.html",
+			"title":"Origins Cold Cold Heart - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/routes/CCH.md"
+		},
+		//Origins General
+		{
+			"location":"origins/glitches.html",
+			"title":"Origins Glitches - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/Glitches.md"
+		},{
+			"location":"origins/skips.html",
+			"title":"Origins Skips - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/Skips.md"
+		},{
+			"location":"origins/gameplay.html",
+			"title":"Origins Gameplay - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/Gameplay.md"
+		},{
+			"location":"origins/version-differences.html",
+			"title":"Origins Version Differences - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/VersionDifferences.md"
+		},{
+			"location":"origins/language-differences.html",
+			"title":"Origins Language Differences - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/LanguageDifferences.md"
+		},
+		//Origins Extras
+		{
+			"location":"origins/useless-glitches.html",
+			"title":"Origins Useless Glitches - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/UselessGlitches.md"
 		},
 	]
 }
