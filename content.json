@@ -52,6 +52,78 @@
 			"title":"Contribute - Arkham Speedrunning Wiki",
 			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/Contribute.md"
-		}
+		},
+		
+		//Asylum Routes
+		{
+			"location":"asylum/routes/any.html",
+			"title":"Asylum Any% - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/Any.md"
+		},{
+			"location":"asylum/routes/nms.html",
+			"title":"Asylum No Major Skips - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/NMS.md"
+		},{
+			"location":"asylum/routes/100.html",
+			"title":"Asylum 100% - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/100.md"
+		},{
+			"location":"asylum/routes/100-nms.html",
+			"title":"Asylum 100% Glitchless - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/100NMS.md"
+		},{
+			"location":"asylum/routes/low.html",
+			"title":"Asylum Low% - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/Low.md"
+		},{
+			"location":"asylum/routes/beat-joker.html",
+			"title":"Asylum Beat Joker - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/BeatJoker.md"
+		},{
+			"location":"asylum/routes/ngminus.html",
+			"title":"Asylum New Game Minus - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/routes/NGMinus.md"
+		},
+		//Asylum General
+		{
+			"location":"asylum/glitches.html",
+			"title":"Asylum Glitches - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/Glitches.md"
+		},{
+			"location":"asylum/skips.html",
+			"title":"Asylum Skips - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/Skips.md"
+		},{
+			"location":"asylum/gameplay.html",
+			"title":"Asylum Gameplay - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/Gameplay.md"
+		},{
+			"location":"asylum/version-differences.html",
+			"title":"Asylum Version Differences - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/VersionDifferences.md"
+		},
+		//Asylum Misc
+		{
+			"location":"asylum/misc/ngminus-file-setup.html",
+			"title":"Asylum NG- File Setup - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/misc/NGMinusSetup.md"
+		},{
+			"location":"asylum/misc/useless-glitches.html",
+			"title":"Asylum Useless Glitches - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/misc/UselessGlitches.md"
+		},
 	]
 }
