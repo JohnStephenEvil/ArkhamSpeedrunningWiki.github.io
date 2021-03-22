@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Knight - Arkham Speedrunning Wiki</title>
+	<title>Knight Glitchless - Arkham Speedrunning Wiki</title>
 
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
@@ -10,18 +10,18 @@
 
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-	<link rel="stylesheet" href="stylesheets/base-style.css"/>
-	<link rel="stylesheet" href="stylesheets/light.css"/>
-	<link rel="stylesheet" href="stylesheets/dark.css"/>
+	<link rel="stylesheet" href="../../stylesheets/base-style.css"/>
+	<link rel="stylesheet" href="../../stylesheets/light.css"/>
+	<link rel="stylesheet" href="../../stylesheets/dark.css"/>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
-	<script src="scripts/URI.js"></script>
-	<script src="scripts/Utilities.js"></script>
-	<script src="scripts/page.js"></script>
-	<script src="scripts/tabs.js"></script>
+	 <script src="../../scripts/URI.js"></script>
+	 <script src="../../scripts/Utilities.js"></script>
+	 <script src="../../scripts/page.js"></script>
+	 <script src="../../scripts/tabs.js"></script>
 			
 	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -30,7 +30,7 @@
 	<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="theme-color" content="#ffffff">
-</head><body id='body-main' class='dark' onload='SetStyle(LoadStyle());'>
+</head><body id='body-main' class='dark' onload='SetStyle(LoadStyle()); LoadFileMarkdown("https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/routes/glitchless.md");'>
 	<div class="jumbotron jumbotron-fluid text-center container-fluid">
 	<div class="container">
 		<div class="row">
@@ -67,50 +67,8 @@
 		<a href="https://github.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io"  target="_blank">GitHub</a><br/>
 	</div>
 </div>
-			<div class="col-md-6 center-block">
-				<div class="panel">
-					<h2>Arkham Knight</h2>
-					<a href="https://www.speedrun.com/arkhamknight" target="_blank">Leaderboard</a>
-					<br/><br/>
-					
-					<table class="table table-bordered table-hover-cells">
-						<thead>
-							<tr class="table-row">
-								<th scope="col"><h3>Routes</h3></th>
-								<th scope="col"><h3>General</h3></th>
-								<th scope="col"><h3>Misc</h3></th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/any';">Main Story</td>
-								<td onclick="window.location='knight/glitches';">Glitches</td>
-								<td onclick="window.location='knight/misc/useless-glitches';">Useless Glitches</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/glitchless';">Glitchless</td>
-								<td onclick="window.location='knight/skips';">Skips</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/first-ending';">Knightfall (First Ending)</td>
-								<td onclick="window.location='knight/gameplay';">Gameplay</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/full-ending';">Knighfall (Full Ending)</td>
-								<td onclick="window.location='knight/version-differences';">Version Differences</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/soi';">Season of Infamy</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/episodes';">Arkham Episodes</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/episodes';">240%</td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
+			<div class='col-md-6 center-block'>
+				<div id='targetDiv'></div>
 			</div>
 			<div class="col-md center-block overflow-hidden"></div>
 		</div>

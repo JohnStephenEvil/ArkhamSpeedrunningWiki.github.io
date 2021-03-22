@@ -234,9 +234,65 @@
 		},
 		//Origins Extras
 		{
-			"location":"origins/useless-glitches.html",
+			"location":"origins/misc/useless-glitches.html",
 			"title":"Origins Useless Glitches - Arkham Speedrunning Wiki",
-			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/UselessGlitches.md"
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/misc/UselessGlitches.md"
+		},
+		
+		//------------------------
+		//Knight Routes
+		{
+			"location":"knight/routes/any.html",
+			"title":"Knight Any% - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/routes/any.md"
+		},{
+			"location":"knight/routes/glitchless.html",
+			"title":"Knight Glitchless - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/routes/glitchless.md"
+		},{
+			"location":"knight/routes/first-ending.html",
+			"title":"Knight First Ending - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/routes/FirstEnding.md"
+		},{
+			"location":"knight/routes/full-ending.html",
+			"title":"Knight 100% - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/routes/FullEnding.md"
+		},{
+			"location":"knight/routes/soi.html",
+			"title":"Knight Season of Infamy - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/routes/SOI.md"
+		},{
+			"location":"knight/routes/episodes.html",
+			"title":"Knight Arkham Episodes - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/routes/Episodes.md"
+		},{
+			"location":"knight/routes/240.html",
+			"title":"Knight 240% - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/routes/240.md"
+		},
+		//Knight General
+		{
+			"location":"knight/glitches.html",
+			"title":"Knight Glitches - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/glitches.md"
+		},{
+			"location":"knight/skips.html",
+			"title":"Knight Skips - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/skips.md"
+		},{
+			"location":"knight/gameplay.html",
+			"title":"Knight Gameplay - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/gameplay.md"
+		},{
+			"location":"knight/version-differences.html",
+			"title":"Knight Version Differences - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/VersionDifferences.md"
+		},
+		//Knight Misc
+		{
+			"location":"knight/misc/useless-glitches.html",
+			"title":"Knight Useless Glitches - Arkham Speedrunning Wiki",
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/misc/UselessGlitches.md"
 		},
 	]
 }
