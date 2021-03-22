@@ -125,5 +125,19 @@
 			"type":2,
 			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/misc/UselessGlitches.md"
 		},
+		
+		//------------------------
+		//City Routes
+		{
+			"location":"city/routes/any.html",
+			"title":"City Any% - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/misc/Any.md"
+		},{
+			"location":"city/routes/any.html",
+			"title":"City Any% - Arkham Speedrunning Wiki",
+			"type":2,
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/asylum/misc/Any.md"
+		},
 	]
 }
