@@ -264,7 +264,7 @@
 		},{
 			"location":"origins/routes/glitchless.html",
 			"title":"Origins Glitchless - Arkham Speedrunning Wiki",
-			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/routes/Glitches.md"
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/origins/routes/Glitchless.md"
 		},{
 			"location":"origins/routes/100.html",
 			"title":"Origins 100% - Arkham Speedrunning Wiki",
@@ -322,11 +322,11 @@
 		{
 			"location":"knight/routes/any.html",
 			"title":"Knight Any% - Arkham Speedrunning Wiki",
-			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/routes/any.md"
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/routes/Any.md"
 		},{
 			"location":"knight/routes/glitchless.html",
 			"title":"Knight Glitchless - Arkham Speedrunning Wiki",
-			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/routes/glitchless.md"
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/routes/Glitchless.md"
 		},{
 			"location":"knight/routes/first-ending.html",
 			"title":"Knight First Ending - Arkham Speedrunning Wiki",
@@ -352,15 +352,15 @@
 		{
 			"location":"knight/glitches.html",
 			"title":"Knight Glitches - Arkham Speedrunning Wiki",
-			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/glitches.md"
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/Glitches.md"
 		},{
 			"location":"knight/skips.html",
 			"title":"Knight Skips - Arkham Speedrunning Wiki",
-			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/skips.md"
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/Skips.md"
 		},{
 			"location":"knight/gameplay.html",
 			"title":"Knight Gameplay - Arkham Speedrunning Wiki",
-			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/gameplay.md"
+			"mdContent":"https://raw.githubusercontent.com/ArkhamSpeedrunningWiki/ArkhamSpeedrunningWiki.github.io/master/knight/Gameplay.md"
 		},{
 			"location":"knight/version-differences.html",
 			"title":"Knight Version Differences - Arkham Speedrunning Wiki",
