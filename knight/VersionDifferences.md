@@ -8,14 +8,15 @@ Zips behave differently at different framerates, however the speedrun is done at
 
 # Glitches
 
-All glitches are possible on all versions, except for rail zips, which are PC exclusive and are not used for anything in the run anyway.
-Therefore, the route is identical on all versions.
+All glitches are possible on all versions, with the exception of rail zips.  
+Rail zips are possible anywhere in the game on PC. However, they can only be performed in certain spots on console due to the controls overlapping.  
+Regardless of this, rail zips are not used in the currrent route, so the route is identical on all versions.
 
 # Gliding
 
-Gliding is _significantly_ easier while using keyboard and mouse, and offers greater precision than is available with a controller. Though, all glides can be done on a controller.
+Gliding is *significantly* easier while using keyboard and mouse, and offers greater precision than is available with a controller. Though, all glides can be done on a controller.
 
-Proper divebombing will let you gain height, if done correctly, you can keep gaining height infinitely. In theory, this should be easy to do, but in practice it is much harder to pull off, _especially_ on a controller.
+Proper divebombing will let you gain height, if done correctly, you can keep gaining height infinitely. In theory, this should be easy to do, but in practice it is much harder to pull off, *especially* on a controller.
 
 Gliding towards a level will auto-adjust and boost Batman's height (This is more noticable while OoB), making it very useful in case you lose too much height and need to recover.
 
@@ -25,7 +26,7 @@ Some Extra Notes:
 
 # ACE Chemicals: Neutralizing Agents
 
-If you cancel the animation of picking up the neutralizing agents you can run while holding them only when using keyboard/mouse. On controller you just walk a little faster (If you try to run, the canister explodes).
+If you cancel the animation of picking up the neutralizing agents, you *can* run while holding them. However, you must run diagonally on controller. If you try to run directly forward, the canister explodes.
 
 # Alfred's Analysis
 
