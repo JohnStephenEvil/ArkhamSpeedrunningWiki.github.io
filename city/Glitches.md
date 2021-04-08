@@ -61,7 +61,6 @@ To activate storage you’ve gotten for other gadgets, basically you do the same
 
 You can get storage on the following gadgets:  
 • Batarang  
-• Sonic Batarang  
 • Remote Control Batarang  
 
 # Storage Zips
