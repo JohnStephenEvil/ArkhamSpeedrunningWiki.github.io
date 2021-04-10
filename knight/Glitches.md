@@ -7,9 +7,13 @@ You do not need the Explosive Gel equipped for this to work.
 
 This works on several animations, including, but not limited to:
 - Silent Takedowns
+- Combat Takedowns
 - Ground Takedowns (You can start holding crouch before doing the other inputs, and continue to hold it until you have performed the cancel)
 - Destroying Sentry Guns
 - Dual Team Takedowns (In predator encounters, not in combat)
+- Countering Thugs (Only certain animations)
+- Vehicle Counters
+- Grappling
 
 ## Explosive Gel Alternate Fire Cancels
 You can interrupt several animations using the Explosive Gel.  
@@ -30,6 +34,8 @@ You can interrupt several animations using the Freeze Blast.
 You simply quickfire a Freeze Blast, interact with something, then hold aim.  
 
 This works on several animations, including, but not limited to:
+- Silent Takedowns
+- Combat Takedowns
 - The bust inside the Clocktower
 - Neutralizing agent canisters
 - Grappling
@@ -40,7 +46,7 @@ You can interrupt this animation, which causes Batman to sink into the floor, an
 
 **Note:** How far Batman sinks into the ground is related to framerate. A lower framerate makes him sink farther down, which is what you want. Therefore, you should have your game capped at 30FPS when performing this trick.  
 
-To perform the trick, quickfire a Freeze Blast, then grapple and hold aim. When you are beneath the map, cancel the grapple with <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Xbox_button_B.svg" alt="Controller B" class="controllerButton"> or Middle Mouse Button, and be ready to glide. You can be holding the glide button during the trick so you start gliding immediately when you cancel the grapple.
+To perform the trick, quickfire a Freeze Blast, then grapple and hold aim. When you are beneath the map, cancel the grapple with <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Xbox_button_B.svg" alt="Controller B" class="controllerButton"> or Left Control, and be ready to glide. You can be holding the glide button during the trick so you start gliding immediately when you cancel the grapple.
 
 ## Storage
 *Somebody needs to add information here*
