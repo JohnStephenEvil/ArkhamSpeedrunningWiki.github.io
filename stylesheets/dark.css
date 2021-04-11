@@ -1,10 +1,10 @@
 body.dark{
-    color: rgba(255,255,255,0.92);
-    background: #1D1D1D url(../images/background.png);
+	color: rgba(255,255,255,0.92);
+	background: #1D1D1D url(../images/background.png);
 	background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-    background-repeat: repeat;
+	background-position: center;
+	background-size: cover;
+	background-repeat: repeat;
 }
 
 body.dark a:link{
@@ -28,7 +28,7 @@ body.dark .jumbotron{
 }
 
 body.dark .panel{
-    background: rgba(18, 18, 18, 0.9);
+	background: rgba(18, 18, 18, 0.9);
 }
 
 body.dark .button{
@@ -50,15 +50,27 @@ body.dark .selected-button{
 	color: white;
 }
 
-body.dark .table{
-	color: white;
+body.dark .tableContainer{
+	color: #FFF;
 }
 
-body.dark .table-row{
+body.dark .tableContainer a{
+	text-decoration: none !important;
+	color: #FFF !important;
+}
+
+body.dark .tableColumn{
 	background-color: #1D1D1D;
 }
 
-body.dark .table-hover-cells > tbody > tr > th:hover,
-.table-hover-cells > tbody > tr > td:hover {
-	background-color: #2e2e2e;
+body.dark .tableHeader{
+	border: 1px solid #DEE2E6;
+}
+
+body.dark .tableCell{
+	border: 1px solid #DEE2E6;
+}
+
+body.dark .tableCell:hover{
+	background-color: #2E2E2E;
 }
