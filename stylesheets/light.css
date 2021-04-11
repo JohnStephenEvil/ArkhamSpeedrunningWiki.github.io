@@ -1,10 +1,10 @@
 body.light{
 	color: rgba(20,20,20,0.92);
-    background: #c7c7c7 url(../images/background-light.png);
+	background: #c7c7c7 url(../images/background-light.png);
 	background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-    background-repeat: repeat;
+	background-position: center;
+	background-size: cover;
+	background-repeat: repeat;
 }
 
 body.light a:link{
@@ -50,15 +50,27 @@ body.light .selected-button{
 	color: white;
 }
 
-body.light .table{
-	color: #1D1D1D;
+body.light .tableContainer{
+	color: #000;
 }
 
-body.light .table-row{
-	background: white;
+body.light .tableContainer a{
+	text-decoration: none !important;
+	color: #000 !important;
 }
 
-body.light .table-hover-cells > tbody > tr > th:hover,
-.table-hover-cells > tbody > tr > td:hover {
-	background-color: #e0e0e0;
+body.light .tableColumn{
+	background-color: #FFF;
+}
+
+body.light .tableHeader{
+	border: 1px solid #1D1D1D;
+}
+
+body.light .tableCell{
+	border: 1px solid #1D1D1D;
+}
+
+body.light .tableCell:hover{
+	background-color: #E0E0E0;
 }
