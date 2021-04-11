@@ -8,46 +8,30 @@
 					<h2>Arkham Asylum</h2>
 					<a href="https://www.speedrun.com/arkhamasylum" target="_blank">Leaderboard</a>
 					<br/><br/>
-					
-					<table class="table table-bordered table-hover-cells">
-						<thead>
-							<tr class="table-row">
-							  <th scope="col"><h3>Routes</h3></th>
-							  <th scope="col"><h3>General</h3></th>
-							  <th scope="col"><h3>Misc</h3></th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr class="table-row">
-								<td onclick="window.location='asylum/routes/any';">Any%</td>
-								<td onclick="window.location='asylum/glitches';">Glitches</td>
-								<td onclick="window.location='asylum/misc/ngminus-file-setup';">NG- File Setup</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='asylum/routes/nms';">No Major Skips</td>
-								<td onclick="window.location='asylum/skips';">Skips</td>
-								<td onclick="window.location='asylum/misc/useless-glitches';">Useless Glitches</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='asylum/routes/100';">100%</td>
-								<td onclick="window.location='asylum/gameplay';">Gameplay</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='asylum/routes/100-nms';">100% - Glitchless</td>
-								<td onclick="window.location='asylum/version-differences';">Version Differences</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='asylum/routes/low';">Low%</td>
-								<td onclick="window.location='asylum/language-differences';">Language Differences</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='asylum/routes/beat-joker';">Beat Joker</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='asylum/routes/ngminus';">New Game Minus</td>
-							</tr>
-						</tbody>
-					</table>
+					<div class="tableContainer">
+						<div class="tableColumn">
+							<div class="tableHeader">Routes</div>
+							<a href="asylum/routes/any"><div class="tableCell">Any%</div></a>
+							<a href="asylum/routes/nms"><div class="tableCell">No Major Skips</div></a>
+							<a href="asylum/routes/100"><div class="tableCell">100%</div></a>
+							<a href="asylum/routes/100-nms"><div class="tableCell">100% - Glitchless</div></a>
+							<a href="asylum/routes/low"><div class="tableCell">Low%</div></a>
+							<a href="asylum/routes/beat-joker"><div class="tableCell">Beat Joker</div></a>
+							<a href="asylum/routes/ngminus"><div class="tableCell">New Game Minus</div></a>
+						</div>
+						<div class="tableColumn">
+							<div class="tableHeader">General</div>
+							<a href="asylum/glitches"><div class="tableCell">Glitches</div></a>
+							<a href="asylum/skips"><div class="tableCell">Skips</div></a>
+							<a href="asylum/gameplay"><div class="tableCell">Gameplay</div></a>
+							<a href="asylum/version-differences"><div class="tableCell">Version Differences</div></a>
+							<a href="asylum/language-differences"><div class="tableCell">Language Differences</div></a>
+						</div>
+						<div class="tableColumn">
+							<div class="tableHeader">Misc</div>
+							<a href="asylum/misc/useless-glitches"><div class="tableCell">Useless Glitches</div></a>
+						</div>
+					</div>
 				</div>
 			</div>
 			<div class="col-md center-block overflow-hidden"></div>
