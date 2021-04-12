@@ -72,58 +72,38 @@
 					<h2>Arkham City</h2>
 					<a href="https://www.speedrun.com/arkhamcity" target="_blank">Leaderboard</a>
 					<br/><br/>
-					
-					<table class="table table-bordered table-hover-cells">
-						<thead>
-							<tr class="table-row">
-								<th scope="col"><h3>Routes</h3></th>
-								<th scope="col"><h3>General</h3></th>
-								<th scope="col"><h3>Misc</h3></th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr class="table-row">
-								<td onclick="window.location='city/routes/any';">Any%</td>
-								<td onclick="window.location='city/glitches';">Glitches</td>
-								<td onclick="window.location='city/misc/useless-glitches';">Useless Glitches</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='city/routes/ng+';">NG+</td>
-								<td onclick="window.location='city/skips';">Skips</td>
-								<td onclick="window.location='city/misc/attributes';">Attributes</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='city/routes/any-cat';">Any% w/Cat</td>
-								<td onclick="window.location='city/gameplay';">Gameplay</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='city/routes/glitchless';">Glitchless</td>
-								<td onclick="window.location='city/version-differences';">Version Differences</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='city/routes/glitchless-cat';">Glitchless w/Cat</td>
-								<td onclick="window.location='city/language-differences';">Language Differences</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='city/routes/hqr';">HQR</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='city/routes/100';">100%</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='city/routes/100-cat';">100% w/Cat</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='city/routes/ngminus';">New Game Minus</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='city/routes/bad-ending';">Bad Ending</td>
-							</tr>
-						</tbody>
-					</table>
+					<div class="tableContainer">
+						<div class="tableColumn">
+							<div class="tableHeader">Routes</div>
+							<a href="city/routes/any"><div class="tableCell">Any%</div></a>
+							<a href="city/routes/ng+"><div class="tableCell">NG+</div></a>
+							<a href="city/routes/any-cat"><div class="tableCell">Any% w/Cat</div></a>
+							<a href="city/routes/glitchless"><div class="tableCell">Glitchless</div></a>
+							<a href="city/routes/glitchless-cat"><div class="tableCell">Glitchless w/Cat</div></a>
+							<a href="city/routes/hqr"><div class="tableCell">HQR</div></a>
+							<a href="city/routes/100"><div class="tableCell">100%</div></a>
+							<a href="city/routes/100-cat"><div class="tableCell">100% w/Cat</div></a>
+							<a href="city/routes/ngminus"><div class="tableCell">New Game Minus</div></a>
+							<a href="city/routes/bad-ending"><div class="tableCell">Bad Ending</div></a>
+						</div>
+						<div class="tableColumn">
+							<div class="tableHeader">General</div>
+							<a href="city/glitches"><div class="tableCell">Glitches</div></a>
+							<a href="city/skips"><div class="tableCell">Skips</div></a>
+							<a href="city/gameplay"><div class="tableCell">Gameplay</div></a>
+							<a href="city/version-differences"><div class="tableCell">Version Differences</div></a>
+							<a href="city/language-differences"><div class="tableCell">Language Differences</div></a>
+						</div>
+						<div class="tableColumn">
+							<div class="tableHeader">Misc</div>
+							<a href="city/misc/useless-glitches"><div class="tableCell">Useless Glitches</div></a>
+							<a href="city/misc/attributes"><div class="tableCell">Attributes</div></a>
+						</div>
+					</div>
 				</div>
 			</div>
 			<div class="col-md center-block overflow-hidden"></div>
 		</div>
 	</div>
-</body></html>
+</body>
+</html>

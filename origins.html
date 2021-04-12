@@ -72,42 +72,31 @@
 					<h2>Arkham Origins</h2>
 					<a href="https://www.speedrun.com/arkhamorigins" target="_blank">Leaderboard</a>
 					<br/><br/>
-					
-					<table class="table table-bordered table-hover-cells">
-						<thead>
-							<tr class="table-row">
-								<th scope="col"><h3>Routes</h3></th>
-								<th scope="col"><h3>General</h3></th>
-								<th scope="col"><h3>Misc</h3></th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr class="table-row">
-								<td onclick="window.location='origins/routes/any';">Any%</td>
-								<td onclick="window.location='origins/glitches';">Glitches</td>
-								<td onclick="window.location='origins/misc/useless-glitches';">Useless Glitches</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='origins/routes/glitchless';">Glitchless</td>
-								<td onclick="window.location='origins/skips';">Skips</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='origins/routes/100';">100%</td>
-								<td onclick="window.location='origins/gameplay';">Gameplay</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='origins/routes/cch';">Cold, Cold Heart</td>
-								<td onclick="window.location='origins/version-differences';">Version Differences</td>
-							</tr>
-							<tr class="table-row">
-								<td/>
-								<td onclick="window.location='origins/language-differences';">Language Differences</td>
-							</tr>
-						</tbody>
-					</table>
+					<div class="tableContainer">
+						<div class="tableColumn">
+							<div class="tableHeader">Routes</div>
+							<a href="origins/routes/any"><div class="tableCell">Any%</div></a>
+							<a href="origins/routes/glitchless"><div class="tableCell">Glitchless</div></a>
+							<a href="origins/routes/100"><div class="tableCell">100%</div></a>
+							<a href="origins/routes/cch"><div class="tableCell">Cold, Cold Heart</div></a>
+						</div>
+						<div class="tableColumn">
+							<div class="tableHeader">General</div>
+							<a href="origins/glitches"><div class="tableCell">Glitches</div></a>
+							<a href="origins/skips"><div class="tableCell">Skips</div></a>
+							<a href="origins/gameplay"><div class="tableCell">Gameplay</div></a>
+							<a href="origins/version-differences"><div class="tableCell">Version Differences</div></a>
+							<a href="origins/language-differences"><div class="tableCell">Language Differences</div></a>
+						</div>
+						<div class="tableColumn">
+							<div class="tableHeader">Misc</div>
+							<a href="origins/misc/useless-glitches"><div class="tableCell">Useless Glitches</div></a>
+						</div>
+					</div>
 				</div>
 			</div>
 			<div class="col-md center-block overflow-hidden"></div>
 		</div>
 	</div>
-</body></html>
+</body>
+</html>
