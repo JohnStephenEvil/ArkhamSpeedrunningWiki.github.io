@@ -2,9 +2,9 @@ body{
 	color: white;
 	background-color: #1D1D1D;
 	background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-    background-repeat: repeat;
+	background-position: center;
+	background-size: cover;
+	background-repeat: repeat;
 }
 
 #targetDiv{
@@ -13,11 +13,11 @@ body{
 }
 
 .panel{
-    box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.075);
-    font-size: 0.9rem;
-    padding: 1rem;
+	box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.075);
+	font-size: 0.9rem;
+	padding: 1rem;
 	margin-bottom: 1rem;
-    border-radius: 0.5rem;
+	border-radius: 0.5rem;
 	resize: both;
 	height: auto;
 }
@@ -59,4 +59,25 @@ button:active{
 .controllerButton{
 	height: 1.5rem;
 	width: 1.5rem;
+}
+
+.tableContainer{
+	display: flex;
+}
+
+.tableColumn{
+	flex-basis: 100%;
+	height: min-content;
+	text-align: center;
+}
+
+.tableHeader{
+	padding: .75rem;
+	font-size: 1.75rem;
+	font-weight: 500;
+}
+
+.tableCell{
+	padding: .75rem;
+	cursor: pointer;
 }

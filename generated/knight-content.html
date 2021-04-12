@@ -8,44 +8,29 @@
 					<h2>Arkham Knight</h2>
 					<a href="https://www.speedrun.com/arkhamknight" target="_blank">Leaderboard</a>
 					<br/><br/>
-					
-					<table class="table table-bordered table-hover-cells">
-						<thead>
-							<tr class="table-row">
-								<th scope="col"><h3>Routes</h3></th>
-								<th scope="col"><h3>General</h3></th>
-								<th scope="col"><h3>Misc</h3></th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/any';">Main Story</td>
-								<td onclick="window.location='knight/glitches';">Glitches</td>
-								<td onclick="window.location='knight/misc/useless-glitches';">Useless Glitches</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/glitchless';">Glitchless</td>
-								<td onclick="window.location='knight/skips';">Skips</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/first-ending';">Knightfall (First Ending)</td>
-								<td onclick="window.location='knight/gameplay';">Gameplay</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/full-ending';">Knighfall (Full Ending)</td>
-								<td onclick="window.location='knight/version-differences';">Version Differences</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/soi';">Season of Infamy</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/episodes';">Arkham Episodes</td>
-							</tr>
-							<tr class="table-row">
-								<td onclick="window.location='knight/routes/episodes';">240%</td>
-							</tr>
-						</tbody>
-					</table>
+					<div class="tableContainer">
+						<div class="tableColumn">
+							<div class="tableHeader">Routes</div>
+							<a href="knight/routes/any"><div class="tableCell">Main Story</div></a>
+							<a href="knight/routes/glitchless"><div class="tableCell">Glitchless</div></a>
+							<a href="knight/routes/first-ending"><div class="tableCell">Knightfall (First Ending)</div></a>
+							<a href="knight/routes/full-ending"><div class="tableCell">Knighfall (Full Ending)</div></a>
+							<a href="knight/routes/soi"><div class="tableCell">Season of Infamy</div></a>
+							<a href="knight/routes/episodes"><div class="tableCell">Arkham Episodes</div></a>
+							<a href="knight/routes/240"><div class="tableCell">240%</div></a>
+						</div>
+						<div class="tableColumn">
+							<div class="tableHeader">General</div>
+							<a href="knight/glitches"><div class="tableCell">Glitches</div></a>
+							<a href="knight/skips"><div class="tableCell">Skips</div></a>
+							<a href="knight/gameplay"><div class="tableCell">Gameplay</div></a>
+							<a href="knight/version-differences"><div class="tableCell">Version Differences</div></a>
+						</div>
+						<div class="tableColumn">
+							<div class="tableHeader">Misc</div>
+							<a href="knight/misc/useless-glitches"><div class="tableCell">Useless Glitches</div></a>
+						</div>
+					</div>
 				</div>
 			</div>
 			<div class="col-md center-block overflow-hidden"></div>
