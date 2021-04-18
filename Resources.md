@@ -12,15 +12,18 @@ __**Savefile Replacer**__
 A program to help manage savefiles. It lets you create backup saves and replace the game's saves with your backups. You can download the latest version from [the GitHub page here](https://github.com/Green-Bat/Savefile-Replacer/releases).
 
 __**Savefile Converter**__
-A program that converts Steam savefiles into Epic Games savefiles for the Batman: Arkham Games. You can download the latest version from [the GitHub page here](https://github.com/Green-Bat/Savefile-Converter/releases).
+A program that converts Steam savefiles into Epic Games savefiles for the Arkham games. You can download the latest version from [the GitHub page here](https://github.com/Green-Bat/Savefile-Converter/releases).
 
 __**100% Route Tracker**__
 Checks the game's save files to keep track of and display your progress. Works for all four main-series Arkham games. [Download here](https://github.com/ShikenNuggets/ArkhamRouteTracker/releases).
 
 __**Autosplitters**__
-City, Origins, and Knight have autosplitters available for the PC versions. All Arkham autosplitters are uploaded into [this GitHub repository](https://github.com/ShikenNuggets/Autosplitters), and are also accessible through LiveSplit itself.
+The four main Arkham games have autosplitters available for the Steam and Epic Games versions. All Arkham autosplitters are uploaded into [this GitHub repository](https://github.com/ShikenNuggets/Autosplitters), and are also accessible through LiveSplit itself.
 
 # Asylum
+__**Autosplitter**__
+Has an auto-start option, and can split at predetermined points throughout the run. [Download here (direct download)](https://www.speedrun.com/tools/ArkhamAsylum_ol9b7.zip), and splits are [available here (direct download)](https://www.speedrun.com/splits/AsylumAutoSplits_gtclz.zip).
+
 __**Custom Input File with Mousewheel Binds**__
 Mouse Wheel Down skips dialog, Mouse Wheel Up opens grates and picks up trophies. [This guide](/asylum/guides/ng47r) explains how to use the file, and how to create it yourself. [Download here (direct download)](https://www.speedrun.com/tools/CustomInputFile_12c92.zip).
 
@@ -32,7 +35,7 @@ __**Custom Input File with Mousewheel Binds**__
 Optimal mousewheel binds for all categories. Mouse Wheel Down skips dialog, Mouse Wheel Up opens grates, dive rolls, etc, Shift+Mouse Wheel Up counters. [Download here (direct download)](https://www.speedrun.com/tools/Custom_Input_File_no5jc.zip).
 
 __**Autosplitter**__
-Can split on pre-rendered cutscenes, loading zones, or both. It can also automatically start the timer at the beginning of a run (but cannot end a run). Works for both Steam and Epic Games version. [Download here (direct download)](https://www.speedrun.com/tools/ArkhamCity_saxr6.zip) (or just use it directly in LiveSplit), [guide on how to use it here](/city/guides/l3fyb), and [splits available here (direct download)](https://www.speedrun.com/splits/CitySplits_kn02g.zip).
+Can split on pre-rendered cutscenes, loading zones, or both. It can also automatically start the timer at the beginning of a run, and stop the timer at the end of runs without the Catwoman DLC. Works for the Steam and Epic Games versions. [Download here (direct download)](https://www.speedrun.com/tools/ArkhamCity_saxr6.zip) (or just use it directly in LiveSplit), [guide on how to use it here](/city/guides/l3fyb), and splits are [available here (direct download)](https://www.speedrun.com/splits/CitySplits_kn02g.zip).
 
 __**(Save File) New Game Plus**__
 Optimal file for all NG+ categories (Any%, Glitchless, with and without Catwoman). Everything unlocked except Freeflow Focus and Shock Wave Attack. [Download here (direct download)](https://www.speedrun.com/saves/NewGamePlus_hk1n0.sgd).
@@ -42,7 +45,7 @@ Optimal file for New Game Minus (with and without Catwoman). Everything unlocked
 
 # Origins
 __**Autosplitter**__
-Has an auto-start option. Can split on pre-rendered cutscenes and/or loading zones. Also features an optional cooldown to prevent excess splits.  [Download here (direct download)](https://www.speedrun.com/tools/ArkhamOrigins_ivt4w.zip), and splits [available here (direct download)](https://www.speedrun.com/splits/AO_Splits_486gn.zip).
+Has an auto-start option. Can split on pre-rendered cutscenes and/or area changes. Also features an optional cooldown to prevent excess splits. [Download here (direct download)](https://www.speedrun.com/tools/ArkhamOrigins_ivt4w.zip), and splits are [available here (direct download)](https://www.speedrun.com/splits/AO_Splits_486gn.zip).
 
 __**(Save Files) Any%**__
 A bunch of saves all throughout the current Any% route. [Download here (direct download)](https://www.speedrun.com/saves/AO_1o4za.rar).
@@ -51,14 +54,14 @@ __**(Save Files) Cold, Cold Heart**__
 A bunch of saves throughout the DLC. [Download here (direct download)](https://www.speedrun.com/saves/CCH_Saves_hbrac.zip).
 
 __**(Save File) NG+**__
-A complete save file with NG+ not started. [Download here (direct download)](https://www.speedrun.com/saves/NG_3imci.sgd).
+A NG+ save file, without the proximity gel upgrade. There are also several unobtained predator upgrades, and the Auxiliary Upgrades menu has some unselected upgrades, which will let you create some extra autosaves for Any%. [Download here (direct download)](https://www.speedrun.com/saves/NGSaveFile_h7376.zip).
 
 __**(Save File) I Am the Night**__
 A complete save file with I Am The Night mode not started. [Download here (direct download)](https://www.speedrun.com/saves/I_Am_The_Night_pwrjb.sgd).
 
 # Knight
 __**Autosplitter**__
-Splits on story progression. Works for Main Story and Glitchless (not NG+). [Download here (direct download)](https://www.speedrun.com/tools/ArkhamKnight_ra1js.zip), and splits [available here (direct download)](https://www.speedrun.com/splits/KnightAuto_xfzlb.zip).
+Splits on story progression. Works for Main Story and Glitchless (not NG+). [Download here (direct download)](https://www.speedrun.com/tools/ArkhamKnight_ra1js.zip), and splits are [available here (direct download)](https://www.speedrun.com/splits/KnightAuto_xfzlb.zip).
 
 __**(Save Files) Main Story and NG+**__
 Story saves during multiple points in the story as well as a NG+ save with most upgrades (all the important ones anyway). Also included a text file on how to use these saves. [Download here (direct download)](https://www.speedrun.com/saves/MainStorySaves_m52sf.zip).
