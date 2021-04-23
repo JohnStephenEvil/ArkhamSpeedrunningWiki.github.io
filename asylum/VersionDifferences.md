@@ -6,4 +6,4 @@ All console versions of Arkham Asylum run at 30fps by default, with the exceptio
 
 ## Animation Cancelling
 
-You cannot perform animation cancels in the PS4 version of Return to Arkham.
+You cannot perform animation cancels on the PS3 or the PS4 versions.
