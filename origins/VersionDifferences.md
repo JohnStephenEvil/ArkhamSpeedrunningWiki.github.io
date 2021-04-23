@@ -29,7 +29,9 @@ The mousewheel can also be bound to ***select*** a specific gadget.
 
 # Animation Cancels
 
-All animation cancels can be done on all versions, but are theoretically easier on console due to the lower framerate.
+Animation cancels do not work on the PS3 version.
+
+All animation cancels can be done on all other versions, but are theoretically easier on console due to the lower framerate.
 These include:
 - Door cancels
 - Ground takedown cancels
