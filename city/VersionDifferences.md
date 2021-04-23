@@ -17,6 +17,9 @@ There are currently no 30fps zips that are superior to the PC/62fps zips.
 
 Animation cancels (specifically, Alternate Fire Cancels) are theoretically easier at 30fps.
 
+# Animation Cancels
+- On PS3 and PS4, Alternate Fire Cancels with gadgets other than the REC do not work.
+
 # Mousewheel
 
 On the PC version, the [mousewheel can be used](https://arkhamspeedrunningwiki.github.io/page.html?page=Guides/City/Mousewheel) to speed up certain actions and encounters. We currently bind Countering, Interact/Dive Rolls, and Skipping Dialogue to the mousewheel. This saves time in a couple parts of the game, most notably all skippable dialogue and the group-counter during the Ra's boss fight.
@@ -51,7 +54,6 @@ Freeze grenade climbing is significantly easier on keyboard, since it involves m
 - Very poor and somewhat inconsistent load times (especially on PS4)
 - Does not run at a consistent framerate (specifically in the overworld)
 - More textures remain visible when you are out of bounds, so navigating out of bounds is easier
-- On PS4, Alternate Fire Cancels with the Batarang and Batclaw (but *not* the REC) do not work
 
 # WiiU
 
