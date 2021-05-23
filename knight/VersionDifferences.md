@@ -26,7 +26,7 @@ Some Extra Notes:
 
 # ACE Chemicals: Neutralizing Agents
 
-If you cancel the animation of picking up the neutralizing agents, you *can* run while holding them. However, you must run diagonally on controller. If you try to run directly forward, the canister explodes.
+If you cancel the animation of picking up the neutralizing agents, you *can* run while holding them. However, when running on controller you must only push the stick halfway. Attempting to move at full running speed will cause the canister to explode.
 
 # Alfred's Analysis
 
