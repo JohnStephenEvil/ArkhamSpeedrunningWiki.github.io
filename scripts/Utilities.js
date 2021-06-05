@@ -1,53 +1,36 @@
-function LoadStyle(){
-	if(typeof(Storage) == "undefined"){
-		console.log("This browser does not support web storage!");
-		return;
+let canUseStorage = true;
+let style = "dark";
+if(typeof(Storage) == "undefined"){
+	console.log("This browser does not support web storage!");
+	canUseStorage = false;
+}else{
+	style = localStorage.getItem("style");
+	if(style != "light"){
+		style = "dark";
 	}
-	
-	var style = localStorage.getItem("style");
-	if(style === null || style === "dark"){
-		return "dark";
+}
+
+function setStyle(){
+	let styleButton = document.getElementById("style-button");
+
+	document.getElementById("body-main").className = style;
+
+	if(style == "light"){
+		styleButton.innerHTML = "Day Mode";
 	}else{
-		return "light";
+		styleButton.innerHTML = "Night Mode";
+	}
+
+	if(canUseStorage){
+		localStorage.setItem("style", style);
 	}
 }
 
-function SaveStyle(mode){
-	if(typeof(Storage) == "undefined"){
-		console.log("This browser does not support web storage!");
-		return;
+function toggleStyle(){
+	if(style == "light"){
+		style = "dark";
+	}else{
+		style = "light";
 	}
-	
-	if(mode == "light"){
-		localStorage.setItem("style", "light");
-	}else if(mode === "dark"){
-		localStorage.setItem("style", "dark");
-	}
-}
-
-function SetStyle(mode){
-	if(mode != "light" && mode != "dark"){
-		console.log("Attempted to set invalid style mode: [" + mode + "]!");
-		return;
-	}
-	
-	document.getElementById('body-main').className = mode;
-	
-	if(mode == "light"){
-		document.getElementById('style-button').innerHTML = "Day Mode";
-	}else if(mode === "dark"){
-		document.getElementById('style-button').innerHTML = "Night Mode";
-	}
-	
-	SaveStyle(mode);
-}
-
-function ToggleStyle(){
-	var currentStyle = LoadStyle();
-	
-	if(currentStyle === "light"){
-		SetStyle("dark");
-	}else if(currentStyle === "dark"){
-		SetStyle("light");
-	}
+	setStyle();
 }
